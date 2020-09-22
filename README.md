@@ -1,4 +1,6 @@
+# Corectie, eliminarea exceptiilor si completarea datelor secventiale
 
+[Cerinta](https://github.com/cristysandu/Corectie-eliminarea-exceptiilor-si-completarea-datelor-secventiale/blob/master/Tema1_SD.pdf)
 
 Pentru am fi mai usor am implementat functi pentru initializare lista ,adaugare la final de lista ,stergere element din lista ,printare lista si eliberare de lista.
 Citrea listei sa realizat inaintea parcurgeri argumentelor 
